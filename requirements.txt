@@ -1,0 +1,6 @@
+Flask~=3.0.3
+psycopg2
+langchain~=0.2.16
+openai
+SQLAlchemy
+faiss-cpu
